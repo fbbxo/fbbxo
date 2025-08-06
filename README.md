@@ -1,8 +1,8 @@
 # 🗿 Fabio Azevedo (fbbxo)
 
-**`Fullstack Developer`**
+**`Fullstack Developer`** **`Backend Developer`**
 
-My name is Fabio de Azevedo Moreira Filho, i'm 20yo and i'm from Tocantins, Brazil.
+My name is Fabio de Azevedo Moreira Filho, i'm 20 yo and i'm from Tocantins, Brazil.
 
 🎓 I'm studying for my degree in Internet Systems.
 
