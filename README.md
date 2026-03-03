@@ -4,7 +4,7 @@
 
 My name is Fabio Azevedo, i'm 20 yo and i'm from Tocantins, Brazil.
 
-🎓 I'm studying for my degree in Internet Systems.
+🎓 I'm studying for my degree in Tecnology in Internet Systems.
 
 ### 💻 Technologies and Languages
 
